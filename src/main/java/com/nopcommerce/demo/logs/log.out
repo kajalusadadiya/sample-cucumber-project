@@ -1,0 +1,6 @@
+2021-12-11 16:12:62 INFO  ManageDriver :33 - Launching Chrome Browser
+2021-12-11 16:12:933 INFO  HomePage :36 - Clicking on login link : + loginLink.toString()
+2021-12-11 16:12:977 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on WINDOWS (8de8ec76a6ab16156822899c64b9375c)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-11 21:12:871 INFO  ManageDriver :33 - Launching Chrome Browser
+2021-12-11 21:12:399 INFO  HomePage :36 - Clicking on login link : + loginLink.toString()
+2021-12-11 21:12:459 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on WINDOWS (b4d74db3124879b6b3c63cda5a040d44)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
